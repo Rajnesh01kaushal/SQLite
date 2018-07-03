@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">SOLite</string>
+    <string name="enter_your_email">Email</string>
+    <string name="login">Login</string>
+    <string name="button">Button</string>
+    <string name="e_mail">E-mail</string>
+    <string name="password">Password</string>
+    <string name="login_n_share">enter e-mail</string>
+    <string name="enter_your_password">enter your password</string>
+    <string name="enter_your_e_mail">enter your e_mail</string>
+    <string name="registration">REGISTRATION</string>
+    <string name="delete">DELETE</string>
+    <string name="name">Name</string>
+    <string name="enter_your_name">enter your name</string>
+    <string name="Password">Password</string>
+    <string name="enter_your_Password">enter your password</string>
+    <string name="type">Type</string>
+    <string name="student_instructor">Student/Instructor</string>
+    <string name="phoneno">PhoneNo</string>
+    <string name="enter_your_android_string_emptyphonenumber">enter your @android:string/emptyPhoneNumber</string>
+    <string name="signup_form">SignUp Form</string>
+    <string name="name">Name</string>
+
+
+</resources>
